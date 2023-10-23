@@ -5,3 +5,4 @@ require("DreamLineLove.core.colorscheme")
 
 require("DreamLineLove.plugins.comment")
 require("DreamLineLove.plugins.nvim-tree")
+require("DreamLineLove.plugins.lualine")

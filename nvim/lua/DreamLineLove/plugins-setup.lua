@@ -44,7 +44,8 @@ return packer.startup(function(use)
     -- vs-code like icons
     use("kyazdani42/nvim-web-devicons")
 
-    -- icons
+    -- statusline
+    use("nvim-lualine/lualine.nvim")
 
     if packer_bootstrap then 
         require("packer").sync()
