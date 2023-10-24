@@ -211,6 +211,11 @@ _G.packer_plugins = {
     path = "/Users/zwenyanzaw/.local/share/nvim/site/pack/packer/start/typescript.nvim",
     url = "https://github.com/jose-elias-alvarez/typescript.nvim"
   },
+  undotree = {
+    loaded = true,
+    path = "/Users/zwenyanzaw/.local/share/nvim/site/pack/packer/start/undotree",
+    url = "https://github.com/mbbill/undotree"
+  },
   ["vim-nightfly-guicolors"] = {
     loaded = true,
     path = "/Users/zwenyanzaw/.local/share/nvim/site/pack/packer/start/vim-nightfly-guicolors",

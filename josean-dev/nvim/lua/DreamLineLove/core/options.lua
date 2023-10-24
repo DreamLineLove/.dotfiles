@@ -13,7 +13,7 @@ opt.smartindent = true
 -- line wrapping
 opt.wrap = false
 
--- search 
+-- search
 opt.ignorecase = true
 opt.smartcase = true
 -- opt.hlsearch = false
@@ -28,12 +28,18 @@ opt.background = "dark"
 opt.signcolumn = "yes"
 opt.scrolloff = 8
 
--- backspace 
+-- backspace
 opt.backspace = "indent,eol,start"
 
 -- clipboard
 opt.clipboard:append("unnamedplus")
 
--- window splitting 
+-- window splitting
 opt.splitright = true
 opt.splitbelow = true
+
+-- undo history
+opt.swapfile = false
+opt.backup = false
+opt.undodir = os.getenv("HOME") .. "/.vim/undodir"
+opt.undofile = true
