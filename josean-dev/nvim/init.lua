@@ -7,3 +7,6 @@ require("DreamLineLove.plugins.comment")
 require("DreamLineLove.plugins.nvim-tree")
 require("DreamLineLove.plugins.lualine")
 require("DreamLineLove.plugins.telescope")
+require("DreamLineLove.plugins.nvim-cmp")
+
+require("DreamLineLove.plugins.lsp.mason")
