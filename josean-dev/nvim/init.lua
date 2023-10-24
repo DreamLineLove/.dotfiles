@@ -12,3 +12,8 @@ require("DreamLineLove.plugins.nvim-cmp")
 require("DreamLineLove.plugins.lsp.mason")
 require("DreamLineLove.plugins.lsp.lspsaga")
 require("DreamLineLove.plugins.lsp.lspconfig")
+require("DreamLineLove.plugins.lsp.null-ls")
+
+require("DreamLineLove.plugins.autopairs")
+require("DreamLineLove.plugins.treesitter")
+require("DreamLineLove.plugins.gitsigns")
