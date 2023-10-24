@@ -10,3 +10,5 @@ require("DreamLineLove.plugins.telescope")
 require("DreamLineLove.plugins.nvim-cmp")
 
 require("DreamLineLove.plugins.lsp.mason")
+require("DreamLineLove.plugins.lsp.lspsaga")
+require("DreamLineLove.plugins.lsp.lspconfig")
