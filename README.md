@@ -1,6 +1,6 @@
 # .dotfiles
 
-Some parts of the dotfiles I use on my personal machine
+Various configuration dotfiles I have on my personal machine
 
 ## Current endeavours
 
