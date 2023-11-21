@@ -56,3 +56,5 @@ keymap.set("n", "<leader>f", vim.lsp.buf.format)
 -- Replace the word under cursor in the whole file with prompted word
 keymap.set("n", "<leader>s", [[:%s/\<<C-r><C-w>\>/<C-r><C-w>/gI<Left><Left><Left>]])
 
+-- Change mode of current file to executable (chmod +x .)
+vim.keymap.set("n", "<leader>x", "<cmd>!chmod +x %<CR>", { silent = true })
