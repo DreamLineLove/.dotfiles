@@ -1,3 +1,3 @@
 # .dotfiles
 
-On this branch, I revamp .dotfiles entirely to make it compatible with GNU stow!
+These are the configurations I use for my linux and mac machines.
