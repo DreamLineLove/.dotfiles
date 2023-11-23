@@ -3,7 +3,7 @@
 - To do pull-up trick
 - Command line tmux copy
 - Cht.sh script
-- **(from YouTube video)** easy entrance into tmux explained by Prime
+- *(from YouTube video)* easy entrance into tmux explained by Prime
 
 ## General
 - Rofi (in place of d_menu)
