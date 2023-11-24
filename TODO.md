@@ -16,6 +16,9 @@
   vim videos)
   - He thought the video was about an emacs user ranting about vim but he ends up
     being surprised!
+- Settings alternative
+- Ranger
+- Brightness
 
 ## Mac
 - Change terminal to bash on Linux
