@@ -1,5 +1,6 @@
 # TO-DO LIST
 ## Developer Productivity 
+- Tmux-sessionizer ✓
 - To do pull-up trick
 - Command line tmux copy
 - Cht.sh script
@@ -7,7 +8,7 @@
 
 ## General
 - Rofi (in place of d_menu)
-✓ Alacritty (ended up using Kitty instead)
+- Alacritty (ended up using Kitty instead) ✓
 - Explore other ricing options
 - Install Arch Linux on VM 
 - Set up ranger (the file manager)
@@ -17,5 +18,5 @@
 - Set up yabai and skhd to mirror i3 movements
 
 # i3wm
-✓ Make Kitty transparent and blurry background
+- Make Kitty transparent and blurry background ✓
 - Customize the transparency (and icons and colors, etc) of the polybar
