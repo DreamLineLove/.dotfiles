@@ -13,3 +13,5 @@ These are the configurations (.dotfiles) I use on my personal machine.
 | polybar | drop-in replacement for i3bar         |
 | yabai   | window manager (mac)                  |
 | skhd    | hotkey daemon to use with yabai (mac) |
+| feh     | wallpaper tool                        |
+| picom   | window compositor for X11             |
