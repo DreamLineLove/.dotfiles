@@ -8,12 +8,14 @@
 ## General
 - Rofi (in place of d_menu)
 ✓ Alacritty (ended up using Kitty instead)
-- Rice i3 and polybar (and explore other options)
+- Explore other ricing options
+- Install Arch Linux on VM 
+- Set up ranger (the file manager)
 
 ## Mac
 - Change terminal to bash on Linux
 - Set up yabai and skhd to mirror i3 movements
 
 # i3wm
-- Make Kitty transparent and blurry background
+✓ Make Kitty transparent and blurry background
 - Customize the transparency (and icons and colors, etc) of the polybar
