@@ -12,6 +12,10 @@
 - Explore other ricing options
 - Install Arch Linux on VM 
 - Set up ranger (the file manager)
+- Learn about using nvim registers in vim cmd (watch one of Prime's reaction to 
+  vim videos)
+  - He thought the video was about an emacs user ranting about vim but he ends up
+    being surprised!
 
 ## Mac
 - Change terminal to bash on Linux
