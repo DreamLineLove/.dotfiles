@@ -3,7 +3,7 @@
 if [[ $# -eq 1 ]]; then
     selected=$1
 else
-    selected=$(find ~/Developer -mindepth 2 -maxdepth 2 -type d | rofi -dmenu)
+    selected=$(find ~/Developer -mindepth 2 -maxdepth 2 -type d | rofi -dmenu -i)
 fi
 
 if [[ -z $selected ]]; then
