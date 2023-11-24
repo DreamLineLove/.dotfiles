@@ -2,7 +2,7 @@
 
 These are the configurations (.dotfiles) I use on my personal machine.
 
-## List
+## List for reference
 | Name    | Description                           |
 |---------|---------------------------------------|
 | kitty   | GPU based terminal emulator           |
