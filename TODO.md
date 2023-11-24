@@ -15,4 +15,5 @@
 - Set up yabai and skhd to mirror i3 movements
 
 # i3wm
-- Make windows transparent (and customize further)
+- Make Kitty transparent and blurry background
+- Customize the transparency (and icons and colors, etc) of the polybar

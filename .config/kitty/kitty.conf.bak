@@ -1,0 +1,16 @@
+# BEGIN_KITTY_THEME
+# Apprentice
+
+include current-theme.conf
+
+font_family JetBrainsMono Nerd Font Mono
+bold_font JetBrainsMono Nerd Font Mono Ultra-Bold
+italic_font JetBrainsMono Nerd Font Mono Italic
+bold_italic_font JetBrainsMono Nerd Font Mono Ultra-Bold Italic
+
+font_size 14.0
+
+background_opacity 0.9
+background_blur 5
+
+# END_KITTY_THEME
