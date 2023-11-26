@@ -15,3 +15,4 @@ These are the configurations (.dotfiles) I use on my personal machine.
 | skhd    | hotkey daemon to use with yabai (mac) |
 | feh     | wallpaper tool                        |
 | picom   | window compositor for X11             |
+| bash    | Bourne again shell                    |
