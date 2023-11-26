@@ -1,8 +1,8 @@
 # TO-DO LIST
 ## Developer Productivity 
-- Tmux-sessionizer ✓
-- To do pull-up trick
-- Command line tmux copy
+- Tmux-sessionizer script ✓
+- Make *todo.md pull-up* trick 
+- Make *command line copying with tmux* trick 
 - Cht.sh script
 - *(from YouTube video)* easy entrance into tmux explained by Prime
 
