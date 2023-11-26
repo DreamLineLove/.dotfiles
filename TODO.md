@@ -16,9 +16,7 @@
         a certain video about vim)
   - He thought the video was about an emacs user ranting about vim but he ends up
     being surprised!
-- Figure out how to make certain most used settings accessible in i3 (especially
-        brightness settings)
-- Find a settings program that better matches the aesthetic
+- Set up brightness and volume controls with fn keys for i3 ✓
 
 ## Mac
 - Change terminal to bash on Linux
