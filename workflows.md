@@ -8,3 +8,6 @@ README.
 ## Kitty
 - Move the binary to a directory part of $PATH.
 - Set up .desktop to be seen by rofi drun.
+
+## Fonts
+- Pango might have to be installed.
