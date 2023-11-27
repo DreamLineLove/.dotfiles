@@ -6,6 +6,7 @@ configuration {
     display-combi:  "";
     show-icons:     true;
     modi:           "window,drun,ssh,combi,run";
+    font: "Hack Nerd Font 15";
 }
 
 @theme "~/.config/rofi/gruvbox-material.rasi"
