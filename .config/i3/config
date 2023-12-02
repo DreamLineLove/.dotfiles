@@ -208,7 +208,6 @@ for_window [class="Spotify"] move to workspace $ws5
 exec --no-startup-id /usr/bin/kitty
 exec --no-startup-id /usr/bin/firefox
 exec --no-startup-id /usr/bin/nautilus
-exec --no-startup-id /usr/bin/gnome-control-center
 
 gaps inner 10
 gaps horizontal 10
@@ -217,5 +216,6 @@ gaps vertical 10
 exec_always picom -f -b
 exec_always ~/.config/polybar/launch.sh &
 exec_always feh --bg-fill ~/Pictures/Wallpapers/gruvbox-dark-windows.png
-exec_always /snap/bin/spotify
 exec_always windscribe-cli connect
+exec_always /usr/bin/gnome-control-center
+exec_always /snap/bin/spotify
