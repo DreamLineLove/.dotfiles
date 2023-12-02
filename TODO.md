@@ -5,6 +5,11 @@
 - Make command line copying with tmux trick 
 - **Cht.sh** script ✓
 
+## Prime
+- *(from YouTube video)* easy entrance into tmux explained by Prime
+- Take vim course properly (including netrw and registers)
+- Watch video where he is surprised it wasn't about Emacs user ranting on vim
+
 ## General
 - Try **Rofi** (in place of d_menu)
 - Try **Kitty** ✓
