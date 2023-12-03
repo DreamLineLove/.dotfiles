@@ -3,7 +3,8 @@
 - **Tmux-sessionizer** script ✓
 - Make todo.md pull-up trick 
 - Make command line copying with tmux trick 
-- **Cht.sh** script ✓
+- **Cheat.sh** script ✓
+- Learn how to store ssh-keys privately using Ansible-Vault
 
 ## Prime
 - *(from YouTube video)* easy entrance into tmux explained by Prime
@@ -16,6 +17,7 @@
 - Try **Alacritty** 
 - Install **Arch Linux** on a virtual machine 
 - Set up brightness and volume controls with fn keys for i3 ✓
+- Write Ansible-Playbook script to git clone multiple repositories with ssh
 
 ## Mac
 - Change terminal to bash on MacOS
