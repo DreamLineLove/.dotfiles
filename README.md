@@ -1,6 +1,6 @@
 # .dotfiles
 
-These are .dotfiles I have configured on my personal machines.
+These are the .dotfiles I have configured on my personal machines.
 
 ## List for reference
 | Name    | Description                           |
