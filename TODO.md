@@ -2,26 +2,29 @@
 ## Developer Productivity 
 - **Tmux-sessionizer** script ✓
 - Make todo.md pull-up trick 
-- Make command line copying with tmux trick 
+- Look into terminal (or tmux?) copying trick
 - **Cheat.sh** script ✓
-- Learn how to store ssh-keys privately using Ansible-Vault
+- Look into Ansible-Vault
 
-## Prime
-- *(from YouTube video)* easy entrance into tmux explained by Prime
-- Take vim course properly (including netrw and registers)
-- Watch video where he is surprised it wasn't about Emacs user ranting on vim
+## General Prime
+- Look into easy entrance into tmux as explained by Prime (and also his dotfiles)
+- Try to understand what Vim is doing as a text editor and the full extent of its features (say macros, (key?) recordings, registers, netrw)
+- Watch video where he first thought an Emacs user was gonna rant on Vim
 
-## General
-- Try **Rofi** (in place of d_menu)
+## General general!
+- Try **Rofi** (in place of d_menu) ✓
 - Try **Kitty** ✓
-- Try **Alacritty** 
-- Install **Arch Linux** on a virtual machine 
-- Set up brightness and volume controls with fn keys for i3 ✓
-- Write Ansible-Playbook script to git clone multiple repositories with ssh
+- Try **Alacritty** ✓
+- Switch to **Arch Linux** ✓
+  - *(.dotfiles update coming soon)*
+- Set up brightness and volume controls with fn keys in i3 ✓
+- Write an actual Ansible-Playbook script that git-clones multiple repos the ssh way
 
 ## Mac
-- Change terminal to bash on MacOS
+- Change shell to bash on MacOS
 
 ## i3wm
-- Make Kitty transparent and have blurry background ✓
-- Customize the transparency (and icons and colors, etc) of the polybar ✓
+- Look into picom or compton (probably just picom)
+- Make terminal transparent and have blurry background ✓
+- Customize the basics (say transparency, icons, colors, etc) of polybar ✓
+- Make an original Arch Linux rice
