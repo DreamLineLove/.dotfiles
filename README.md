@@ -5,7 +5,7 @@ These are the programs I've configured on my personal machine(s).
 ## List for reference
 | Name    | Description                                  |
 |---------|----------------------------------------------|
-| kitty   | GPU based terminal emulator                  |
+| kitty   | GPU based terminal emulator (alt: Alacritty) |
 | tmux    | terminal multiplexer                         |
 | neovim  | text editor, fork of vim                     |
 | rofi    | GUI fuzzy finder and launcher                |  
