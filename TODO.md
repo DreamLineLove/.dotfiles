@@ -5,7 +5,8 @@
 - Look into terminal (or tmux?) copying trick
 - **Cheat.sh** script ✓
 - Look into Ansible-Vault
-- **A new tmux session should have windows already set up for main, main console, test, and test console.** 
+- **A new tmux session should have windows already set up for main, main console, test, and test console.** (prefer named)
+- tmux window numbering should start from 1 (not 0). 
 
 ## General Prime
 - Look into easy entrance into tmux as explained by Prime (and also his dotfiles)
